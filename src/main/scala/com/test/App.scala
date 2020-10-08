@@ -6,4 +6,7 @@ package com.test
  */
 object App extends Application {
   println( "Hello World!" )
+  /**
+    * hhhhhhgggg
+    */
 }
